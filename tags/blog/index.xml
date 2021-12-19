@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on Honey Sukesan</title>
+    <link>https://honey-speaks-tech.github.io/tags/blog/</link>
+    <description>Recent content in blog on Honey Sukesan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2021 honey-speaks-tech</copyright>
+    <lastBuildDate>Sun, 19 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://honey-speaks-tech.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About honey-speaks-tech.github.io</title>
+      <link>https://honey-speaks-tech.github.io/technical-blog/</link>
+      <pubDate>Sun, 19 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://honey-speaks-tech.github.io/technical-blog/</guid>
+      <description>About the website  honey-speaks-tech.github.io website is created using Github pages and Hugo. Hugo is a popular open-source, fast and flexible static website generator written in Go. Hugo takes a directory with content and templates and renders them into a full HTML website GitHub Pages are public webpages hosted and published through GitHub.  Reference  https://levelup.gitconnected.com/build-a-personal-website-with-github-pages-and-hugo-6c68592204c7  </description>
+    </item>
+    
+  </channel>
+</rss>
